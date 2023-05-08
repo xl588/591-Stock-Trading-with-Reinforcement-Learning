@@ -2,3 +2,4 @@
 sunspot.py
 /.idea
 Report.*
+/__pycache__
