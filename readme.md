@@ -8,11 +8,12 @@ Reference:
 Rao, A., & Jelvis, T. (2022). Foundations of Reinforcementn Learning with Apppications in Finance. CRC Press.
 
 ### data.ipynb
-This notebook contains some data explorations with the both simulated data and historical data. It also includes the time series analysis metioned in the report.
+This notebook contains some data explorations with the both simulated data and historical data. It also includes the time series analysis metioned in the report.\
 The code the resourced and edited with various online informations and past class materials.
 
 ### nonRLmethod.ipynb
 This notebook contains code predicting stock price changes with non RL methods such as RNN, which was planed to be used as a comparison to our RL model, but was not included in the final results.
+
 The code the resourced and edited with various online informations and past class materials.
 
 ### real-time.ipynb
