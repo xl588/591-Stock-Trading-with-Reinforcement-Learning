@@ -39,7 +39,6 @@ This is the summary write-up for this project which is also attached below.
 ## <div align="center"> Stock Trading with Reinforcement Learning Project Report </div>
 <div align="center">Xinlu Liu</div>
 <div align="center">ANLY-591</div>
-
 ### Abstract
 In this project, we explored the application of reinforcement learning on stock price data. The goal is to train our RL agent to make stock trading decisions to gain positive returns over time. Following the sequence of data simulation, environment construction, and agent policy optimization, we built a basic framework for the application with various interchangeable entries involved. We used both simulated stock prices and the historical stock price from the market for the data. We examined different methods of defining the rewards for our environment. We used deep learning algorithms for the agents’ policy as function approximators between the states and rewards. We also involved several reinforcement algorithms as rules for training and optimizing our RL agents, aiming to find the optimal way to update agent policy. We discussed the attempts we made for our applications along the process.
 
